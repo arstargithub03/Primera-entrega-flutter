@@ -1,4 +1,4 @@
-# flutter_lu
+# flutter
 
 A new Flutter project.
 
